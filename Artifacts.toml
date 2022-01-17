@@ -1,30 +1,30 @@
 [[CUDA_compat]]
 arch = "x86_64"
-git-tree-sha1 = "b618eadab05abb3bef21da981a51b6f4f0183b27"
+git-tree-sha1 = "3db8d0db4f0623c19d74a63ce2691ada0e340ffc"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[CUDA_compat.download]]
-    sha256 = "14c630379bbcee33f9e0bcea153e0c13c254e79aff65327f419c899fc261ebf4"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_compat_jll.jl/releases/download/CUDA_compat-v11.5.50+0/CUDA_compat.v11.5.50.x86_64-linux-gnu.tar.gz"
+    sha256 = "8739f6b4c9013fd1f907b476a3f49dfacdcd503fe4a883481b5846b0e06dd207"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_compat_jll.jl/releases/download/CUDA_compat-v11.6.0+0/CUDA_compat.v11.6.0.x86_64-linux-gnu.tar.gz"
 [[CUDA_compat]]
 arch = "powerpc64le"
-git-tree-sha1 = "b4afa017a38ea78a8b1ffee77f1fc0f309938fa3"
+git-tree-sha1 = "8b70b6fb5fe171f52640bb7e87147250a37b09ff"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[CUDA_compat.download]]
-    sha256 = "d2365797d12c530265b8f232eb44f1b409c6e6e30b62af602565cee50c470d5a"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_compat_jll.jl/releases/download/CUDA_compat-v11.5.50+0/CUDA_compat.v11.5.50.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "fc18008e47c25e1075b0c28a5c780c54737b0b506dd8073e446a6018c6b2ef51"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_compat_jll.jl/releases/download/CUDA_compat-v11.6.0+0/CUDA_compat.v11.6.0.powerpc64le-linux-gnu.tar.gz"
 [[CUDA_compat]]
 arch = "aarch64"
-git-tree-sha1 = "50e213a96d99f9d91fade62d8918f8c4b1273e84"
+git-tree-sha1 = "1377fe3adcdcae49c4c77288f73f77efd7ea1463"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[CUDA_compat.download]]
-    sha256 = "07070754ae41d14df0b0e3537d34c62d07db1200943495d22fc3bd5fdccb61a3"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_compat_jll.jl/releases/download/CUDA_compat-v11.5.50+0/CUDA_compat.v11.5.50.aarch64-linux-gnu.tar.gz"
+    sha256 = "c275bce55678703cbed013bb51b1c5691ca5312c93e3a2285717e30c3edb381e"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_compat_jll.jl/releases/download/CUDA_compat-v11.6.0+0/CUDA_compat.v11.6.0.aarch64-linux-gnu.tar.gz"
