@@ -1,6 +1,6 @@
 name = "CUDA_compat_jll"
 uuid = "340b3129-3577-50c6-bc43-5dfc29cb9805"
-version = "11.7.0+0"
+version = "11.8.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
