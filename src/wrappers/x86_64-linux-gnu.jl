@@ -9,13 +9,13 @@ function __init__()
     JLLWrappers.@init_library_product(
         libcuda,
         "lib/libcuda.so",
-        RTLD_LAZY | RTLD_DEEPBIND,
+        nothing,
     )
 
     JLLWrappers.@init_library_product(
         libnvidia_ptxjitcompiler,
         "lib/libnvidia-ptxjitcompiler.so.1",
-        RTLD_LAZY | RTLD_DEEPBIND,
+        nothing,
     )
 
     JLLWrappers.@generate_init_footer()
